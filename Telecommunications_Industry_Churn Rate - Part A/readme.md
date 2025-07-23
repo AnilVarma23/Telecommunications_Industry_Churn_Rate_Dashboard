@@ -6,19 +6,6 @@ Objectives calculate churn rates and analyze key drivers of customer attrition.
 Examine customer demographics, contract details, and service usage to understand churn behavior.
 Provide actionable insights to improve customer retention strategies.
 
-## Repository Structure
-
-Telecommunications_Churn_Analysis/
-├── data/
-│   ├── raw_data/              # Raw dataset (not included due to confidentiality)
-├── sql_scripts/
-│   ├── data_extraction.sql    # SQL queries for extracting data
-│   ├── data_cleaning.sql     # SQL queries for cleaning and preprocessing
-│   ├── analysis_queries.sql   # SQL queries for churn analysis
-├── power_bi/
-│   ├── Churn_dashboard.pbix   # Power BI file with interactive visualizations
-└── docs/
-
 ## Dataset
 The dataset contains customer information from a telecommunications company, including: Demographics: Age, gender, marital status, dependents, location
 Service Details: Contract type, tenure, monthly charges, payment method, offer status
